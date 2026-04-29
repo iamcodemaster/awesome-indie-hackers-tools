@@ -2,7 +2,7 @@
 
 **[Subscribe](https://github.com/Alex0x47/awesome-indie-hackers-tools/subscription) to receive notifications with updates.**
 
-### **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
+### **ð NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) ð
 
 ![logo of the awesome indie dev tools directory](aiht_small.png)
 
@@ -206,7 +206,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
 
-- [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
+- [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest ð¥ Tiny Startups.
 
 ## Hosting and Cloud
 
@@ -225,4 +225,6 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 ---
 
-**➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️**
+**â¡ï¸ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) â¬ï¸**
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
